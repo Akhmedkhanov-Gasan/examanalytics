@@ -1,0 +1,7 @@
+[project]
+name = "examanalytics"
+version = "0.1.0"
+dependencies = ["tabulate"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
